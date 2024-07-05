@@ -1,4 +1,4 @@
-import "../index.css"; // Ajusta la ruta según la estructura de tu proyecto
+import "../index.css";
 
 const ImagenPrincipal = () => {
   return (
